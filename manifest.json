@@ -1,0 +1,17 @@
+{
+    "name": "Hora Actual PWA",
+    "short_name": "Hora PWA",
+    "description": "Aplicación web progresiva que muestra la hora actual del sistema.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f1f5f9",
+    "theme_color": "#2563eb",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
